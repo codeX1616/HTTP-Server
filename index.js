@@ -7,4 +7,5 @@ server.listen(port, function(err){
         console.log(err);
         return;
     }
-})
+    console.log("Server is up and running on port: ",port);
+});
