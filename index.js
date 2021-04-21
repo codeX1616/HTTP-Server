@@ -3,6 +3,7 @@ const port = 8000;
 
 function requestHandler(req,res){
     console.log(req.url);
+    res.end('Gotcha!');
 }
 
 const server = http.createServer(requestHandler);
