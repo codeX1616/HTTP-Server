@@ -1,0 +1,19 @@
+{
+  "name": "http-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codeX1616/HTTP-Server.git"
+  },
+  "author": "pratik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codeX1616/HTTP-Server/issues"
+  },
+  "homepage": "https://github.com/codeX1616/HTTP-Server#readme"
+}
